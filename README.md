@@ -2,4 +2,4 @@
 
 Some descriptipn.
 
-Learning Git and GitHbu
+Learning Git and GitHub!
